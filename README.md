@@ -1,6 +1,6 @@
 # Veri Yapıları Ödevi I: Bağlı Liste ile Randevu Takip Sistemi
 
-* **Video Sunumu:**
+* **Video Sunumu: https://drive.google.com/file/d/1Ug1jAtZJAN6KPP4eA4jtFya64l8DYPZQ/view?usp=drive_link **
 ---
 
 **Öğrenci Bilgileri**
